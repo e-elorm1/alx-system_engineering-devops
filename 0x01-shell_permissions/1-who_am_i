@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
- whoami
-=======
-ls
->>>>>>> f581358fc98651c9759ae880470d26492a973599
+i#!/bin/bash
+id -u -n
